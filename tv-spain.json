@@ -17,7 +17,7 @@
     "id": 3,
     "enabled": true,
     "name": "Antena 3",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
@@ -52,35 +52,35 @@
     "id": 6,
     "enabled": true,
     "name": "La Sexta",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8",
+    "link_m3u8": "https://atresplayerp-i.akamaized.net/lasextampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 7,
     "enabled": true,
     "name": "A3Series",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 8,
     "enabled": true,
     "name": "Nova",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 9,
     "enabled": true,
     "name": "Neox",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
     "id": 10,
     "enabled": true,
     "name": "Mega",
-    "link_m3u8": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8",
+    "link_m3u8": "https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8",
     "link_logo": ""
   },
   {
@@ -332,7 +332,7 @@
     "id": 46,
     "enabled": false,
     "name": "La Otra - Madrid (MD)",
-    "link_m3u8": "http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8",
+    "link_m3u8": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8",
     "link_logo": ""
   },
   {
@@ -528,7 +528,7 @@
     "id": 74,
     "enabled": false,
     "name": "Terrassa TV",
-    "link_m3u8": "http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8",
+    "link_m3u8": "http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8",
     "link_logo": ""
   },
   {
@@ -571,6 +571,13 @@
     "enabled": true,
     "name": "Russia Today Español",
     "link_m3u8": "https://secure-streams.akamaized.net/rt-esp/index.m3u8",
+    "link_logo": ""
+  },
+  {
+    "id": 81,
+    "enabled": true,
+    "name": "À Punt - C. Valenciana (VC)",
+    "link_m3u8": "https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8",
     "link_logo": ""
   },
   {
