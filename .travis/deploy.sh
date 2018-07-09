@@ -2,8 +2,8 @@
 set -x # Debug
 set -e # Exit with nonzero exit code if anything fails
 
-if [ "$TRAVIS_EVENT_TYPE" != "cron" ]; then
-    echo "Not Cron. Skipping deploy..."
+if [ "$TRAVIS_EVENT_TYPE" != "cron" ] && [ "$TRAVIS_EVENT_TYPE" != "pull_request" ]; then
+    echo "Not Cron|PR. Skipping deploy..."
     exit 0
 fi
 
