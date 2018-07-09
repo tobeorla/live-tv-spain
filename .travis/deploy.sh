@@ -14,7 +14,7 @@ git config --global user.email "$GH_USER_EMAIL"
 git config --global user.name "$GH_USER_NAME"
 
 set +x
-git remote set-url origin https://ruvelro:$GH_TOKEN@github.com/ruvelro/TV-Online-TDT-Spain
+git remote set-url origin https://tobeorla:$GH_TOKEN@github.com/tobeorla/TV-Online-TDT-Spain
 set -x
 
 ## UPLOAD NEW HOSTS
