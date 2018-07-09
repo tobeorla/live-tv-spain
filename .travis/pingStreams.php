@@ -1,7 +1,8 @@
 <?php
 
-if(getenv("TRAVIS_EVENT_TYPE") != "cron") {
-    die("Not comming from a cron");
+$eventType = getenv("TRAVIS_EVENT_TYPE");
+if($eventType != "cron" && $eventType != "pull_request") {
+    die("Not comming from a cron|pull_request");
 }
 
 $streams = json_decode(file_get_contents('tv-spain.json'));
