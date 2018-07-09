@@ -4,7 +4,7 @@ set -e # Exit with nonzero exit code if anything fails
 
 if [ "$TRAVIS_EVENT_TYPE" != "cron" ]; then
     echo "Not Cron. Skipping deploy..."
-    exit 0
+    #exit 0
 fi
 
 
