@@ -1,12 +1,11 @@
 <?php
 
-$streams = json_decode(file_get_contents('../tv-spain.json'));
-$readmeFile = "../README.md";
+$streams = json_decode(file_get_contents('tv-spain.json'));
+$readmeFile = "README.md";
 $readme = file_get_contents($readmeFile);
 $readme = explode("## Status Update", $readme)[0];
 $readme .= "## Status Update: **" . date("Y-m-d") . "**\n\n";
 $readme .= "Status | Canal | URL\n--- | --- | ---\n";
-$i = 0;
 
 foreach ($streams as $stream) {
     echo "Checking " . $stream->name . " - " . $stream->link_m3u8 . "\n";
@@ -17,7 +16,6 @@ foreach ($streams as $stream) {
     }
 
     $readme .= $status . "|" . $stream->name . "|" . $stream->link_m3u8 . "\n";
-$i++;if($i == 10) {break;}
 }
 
 file_put_contents($readmeFile, $readme);
