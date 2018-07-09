@@ -3,7 +3,7 @@
     "id": 1,
     "enabled": false,
     "name": "La 1",
-    "link_m3u8": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8",
+    "link_m3u8": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8",
     "link_logo": ""
   },
   {
@@ -87,7 +87,7 @@
     "id": 11,
     "enabled": false,
     "name": "Be Mad TV",
-    "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8",
+    "link_m3u8": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8",
     "link_logo": ""
   },
   {
