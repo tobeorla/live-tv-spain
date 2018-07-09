@@ -2,11 +2,6 @@ language: php
 php:
   - 7.0
 
-addons:
-  apt:
-    packages:
-    - moreutils
-
 git:
   depth: 1
 
