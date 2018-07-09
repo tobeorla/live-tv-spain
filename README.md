@@ -11,12 +11,29 @@ Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con es
 [TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
 Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
-## Status Update: **29-04-18**
+## Modificar/Añadir nuevo canal
+
+1. Si quieres añadir o modificar un canal, edita el fichero [tv-spain.json] (https://github.com/tobeorla/TV-Online-TDT-Spain/blob/master/tv-spain.json). El listado del readme junto con el estado de cada uno, se actualizarán automáticamente pasado un día.
+
+2. Envía un PR (pull request) a este repositorio, usando la branch que se te ha creado con tus cambios: https://github.com/tobeorla/TV-Online-TDT-Spain/compare/master...tobeorla:master
+- Si al menos 2 usuarios de Github responen con un `+1`, tu cambios serán añadidos automáticamente.
+- Si por el contrario al menos 2 usurios responden con un `-1`, serán denegados.
+- Si el administrador del respositorio está vivo, puede pasarse la votación por el forro y aplicar o denegar los cambios directamente.
+
+## Requisitos desarrollador
+
+Si quieres modificar el sistema revisa la disponibilidad de los streams, necesitarás:
+- php
+- php-curl (correspondiente a la versión de tengas de php (`php -v`), ej: php7.0-curl)
 
 Status| Descripción
 --- | --- |
 :green_heart:|OK
 :red_circle:|Link no accesible
+
+Apartir de aquí, el contenido es editado automáticamente por Travis, no añadir más contenido después de esta línea.
+
+## Status Update: **29-04-18**
 
 
 Status | Canal | URL 
