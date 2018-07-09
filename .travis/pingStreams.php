@@ -1,5 +1,9 @@
 <?php
 
+if(getenv("TRAVIS_EVENT_TYPE") != "cron") {
+    die("Not comming from a cron");
+}
+
 $streams = json_decode(file_get_contents('tv-spain.json'));
 $readmeFile = "README.md";
 $readme = file_get_contents($readmeFile);
