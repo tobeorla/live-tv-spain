@@ -1,6 +1,6 @@
 # TV-Online-TDT-Spain
 
-[![Travis](https://img.shields.io/travis/ruvelro/TV-Online-TDT-Spain.svg)](https://travis-ci.org/ruvelro/TV-Online-TDT-Spain)
+[![Travis](https://img.shields.io/travis/tobeorla/TV-Online-TDT-Spain.svg)](https://travis-ci.org/tobeorla/TV-Online-TDT-Spain)
 
 Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
 
@@ -13,7 +13,7 @@ Script Python para descargar el listado de canales TDT por streaming de TV-Onlin
 
 ## Modificar/Añadir nuevo canal
 
-1. Si quieres añadir o modificar un canal, edita el fichero [tv-spain.json] (https://github.com/tobeorla/TV-Online-TDT-Spain/blob/master/tv-spain.json). El listado del readme junto con el estado de cada uno, se actualizarán automáticamente pasado un día.
+1. Si quieres añadir o modificar un canal, edita el fichero [tv-spain.json](https://github.com/tobeorla/TV-Online-TDT-Spain/blob/master/tv-spain.json). El listado del readme junto con el estado de cada uno, se actualizarán automáticamente pasado un día.
 
 2. Envía un PR (pull request) a este repositorio, usando la branch que se te ha creado con tus cambios: https://github.com/tobeorla/TV-Online-TDT-Spain/compare/master...tobeorla:master
 - Si al menos 2 usuarios de Github responen con un `+1`, tu cambios serán añadidos automáticamente.
@@ -26,12 +26,12 @@ Si quieres modificar el sistema revisa la disponibilidad de los streams, necesit
 - php
 - php-curl (correspondiente a la versión de tengas de php (`php -v`), ej: php7.0-curl)
 
+Apartir de aquí, el contenido es editado automáticamente por Travis, no añadir más contenido después de esta línea.
+
 Status| Descripción
 --- | --- |
 :green_heart:|OK
 :red_circle:|Link no accesible
-
-Apartir de aquí, el contenido es editado automáticamente por Travis, no añadir más contenido después de esta línea.
 
 ## Status Update: **2018-07-09**
 
