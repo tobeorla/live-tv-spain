@@ -33,23 +33,23 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2018-07-09**
+## Status Update: **2018-07-10**
 
 Status | Canal | URL
 --- | --- | ---
-:red_circle:|La 1|http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+:red_circle:|La 1|http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 :red_circle:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
-:green_heart:|Antena 3|http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+:red_circle:|Antena 3|https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8
 :red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
 :red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 :red_circle:|Telecinco HD|http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
-:green_heart:|La Sexta|http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-:green_heart:|A3Series|http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-:green_heart:|Nova|http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-:green_heart:|Neox|http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-:green_heart:|Mega|http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-:red_circle:|Be Mad TV|https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+:red_circle:|La Sexta|https://atresplayerp-i.akamaized.net/lasextampp/bitrate_3.m3u8
+:red_circle:|A3Series|https://atresplayers-i.akamaized.net/geoa3seriesmpp/bitrate_3.m3u8
+:red_circle:|Nova|https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8
+:red_circle:|Neox|https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
+:red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
+:green_heart:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 :green_heart:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :red_circle:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
@@ -84,13 +84,13 @@ Status | Canal | URL
 :green_heart:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
 :red_circle:|7 RM - Murcia (MC)|http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
 :green_heart:|Telemadrid - Madrid (MD)|http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
-:red_circle:|La Otra - Madrid (MD)|http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+:red_circle:|La Otra - Madrid (MD)|http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
 :red_circle:|Libertad Digital - Madrid (MD)|http://stream-09.vty.dailymotion.com/09/dm/1/xnm032/live.isml/live.m3u8?e=1481401957&st=FfaF_FK5REWIoSlanFC8kQ
 :red_circle:|Canal Parlamento - Madrid (MD)|http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8?DVR&m3u8
 :green_heart:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 :red_circle:|Vaughan TV - Navarra (NC)|http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 :green_heart:|Eitb - P.Vasco (PV)|http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-:red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
+:green_heart:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 :red_circle:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 :red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
@@ -112,11 +112,12 @@ Status | Canal | URL
 :red_circle:|Televisió de Girona|http://tvgirona.dnssw.net:1935/live/Icontouch/playlist.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
 :red_circle:|El Punt Avui TV|http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
-:red_circle:|Terrassa TV|http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+:green_heart:|Terrassa TV|http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
 :green_heart:|Sevilla F.C.|http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 :red_circle:|BETISTV|http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 :red_circle:|Nasa TV - EEUU|http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 :red_circle:|Cordoba Internacional|http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
 :red_circle:|HispanTV|http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 :green_heart:|Russia Today Español|https://secure-streams.akamaized.net/rt-esp/index.m3u8
+:green_heart:|À Punt - C. Valenciana (VC)|https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 :red_circle:|Boing|https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
