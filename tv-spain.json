@@ -586,5 +586,19 @@
     "name": "Boing",
     "link_m3u8": "https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8",
     "link_logo": ""
+  },
+  {
+    "id": 509,
+    "enabled": true,
+    "name": "Fox News Talk",
+    "link_m3u8": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8",
+    "link_logo": "https://i.ytimg.com/vi/C0yp32EVqh0/maxresdefault.jpg"
+  },
+  {
+    "id": 510,
+    "enabled": true,
+    "name": "ABC News Live",
+    "link_m3u8": "https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8",
+    "link_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRCTWVa0n4ljXjorU1blVFX9f_1XOpVWoXUhUsiD00_C5-UFuoA"
   }
 ]
