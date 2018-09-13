@@ -13,7 +13,8 @@ Script Python para descargar el listado de canales TDT por streaming de TV-Onlin
 
 ## Modificar/Añadir nuevo canal
 
-1. Si quieres añadir o modificar un canal, edita el fichero [tv-spain.json](https://github.com/tobeorla/TV-Online-TDT-Spain/blob/master/tv-spain.json). El listado del readme junto con el estado de cada uno, se actualizarán automáticamente pasado un día.
+1. Si quieres añadir o modificar un canal, edita el fichero [tv-spain.json](https://github.com/tobeorla/TV-Online-TDT-Spain/blob/master/tv-spain.json). 
+(El listado del readme junto con el estado de cada uno, se actualizarán automáticamente pasado un día)
 
 2. Envía un PR (pull request) a este repositorio, usando la branch que se te ha creado con tus cambios: https://github.com/tobeorla/TV-Online-TDT-Spain/compare/master...tobeorla:master
 - Si al menos 2 usuarios de Github responen con un `+1`, tu cambios serán añadidos automáticamente.
