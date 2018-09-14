@@ -563,7 +563,7 @@
     "id": 79,
     "enabled": true,
     "name": "HispanTV",
-    "link_m3u8": "http://107.189.40.49:1935/live/hispantv/playlist.m3u8",
+    "link_m3u8": "https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8",
     "link_logo": ""
   },
   {
