@@ -17,7 +17,7 @@
     "id": 3,
     "enabled": true,
     "name": "Antena 3",
-    "link_m3u8": "https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8",
+    "link_m3u8": "https://livepull1.secure.footprint.net/antena3mpp/master.m3u8",
     "link_logo": ""
   },
   {
@@ -66,21 +66,21 @@
     "id": 8,
     "enabled": true,
     "name": "Nova",
-    "link_m3u8": "https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8",
+    "link_m3u8": "https://livepull1.secure.footprint.net/geonovampp/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 9,
     "enabled": true,
     "name": "Neox",
-    "link_m3u8": "https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8",
+    "link_m3u8": "https://livepull1.secure.footprint.net/geoneoxmpp/master.m3u8",
     "link_logo": ""
   },
   {
     "id": 10,
     "enabled": true,
     "name": "Mega",
-    "link_m3u8": "https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8",
+    "link_m3u8": "https://livepull1.secure.footprint.net/geomegampp/master.m3u8",
     "link_logo": ""
   },
   {
