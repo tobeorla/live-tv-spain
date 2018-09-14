@@ -1,15 +1,10 @@
-# TV-Online-TDT-Spain
+# Spain live TV
 
 [![Travis](https://img.shields.io/travis/tobeorla/TV-Online-TDT-Spain.svg)](https://travis-ci.org/tobeorla/TV-Online-TDT-Spain)
 
 Lista de URLs de canales TDT de España - Abrir directamente con VLC u otro reproductor de vídeo.
 
 Manual: [Cómo abrir estos canales de TDT en VLC](https://www.softzone.es/2016/12/18/ver-la-tdt-online-streaming-utilizando-tan-solo-vlc/)
-
-Plugin Kodi: Comprime la carpeta plugin.video.tdtiberia en un fichero zip con ese mismo nombre. Sigue la guia [instalar plugin en zip](http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files) para instalar el plugin.
-
-[TDTSpain2VLC] (https://github.com/EnforcerZhukov/TDTSpain2VLC) :
-Script Python para descargar el listado de canales TDT por streaming de TV-Online-TDT-Spain y convertirlo a una playlist XSPF para VLC
 
 ## Modificar/Añadir nuevo canal
 
